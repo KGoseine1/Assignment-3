@@ -1,0 +1,125 @@
+{"type":"FeatureCollection",
+  "features":[
+    {
+      "type":"Feature",
+      "properties":{
+        "name":"Atlantis Paradise Island",
+        "description":"Atlantis Paradise Island"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-77.32139110565184,25.08353890905638]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name":"Nassau",
+        "description":"Nassau"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-77.33928680419922,25.072538763707744]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name":"Exuma Cays Land & Sea Park",
+        "description":"Exuma Cays Land & Sea Park"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-76.63301825523376,24.392980360219532]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name":"Harbour Island",
+        "description":"Harbour Island"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-76.63581848144531,25.501545058832342]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name": "Grand Bahama Island",
+        "description": "Grand Bahama Island"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-78.69094848632812,26.531408256915512]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name": "Andros Island",
+        "description": "Diving and fishing on Andros Island"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-78.02078247070312,24.69942955501979]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name": "Great Abaco Island",
+        "description": "Treasure Cay Beach on Great Abaco Island"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-77.29328155517578,26.681821407205977]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name": "Elbow Cay",
+        "description": "Elbow Cay"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-76.97035431861876,26.519389706776735]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name": "Green Turtle Cay",
+        "description": "Green Turtle Cay"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-77.32986688613892,26.77988601133254]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name": "Long Island",
+        "description": "Long Island"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-75.09635925292969,23.26784231115442]
+      }
+    },
+    {
+      "type":"Feature",
+      "properties":{
+        "name": "Blue Lagoon Island",
+        "description": "Blue Lagoon Island"
+      },
+      "geometry":{
+        "type":"Point",
+        "coordinates":[-77.26889491081238,25.099308594231328]
+      }
+    }
+  ]
+}
