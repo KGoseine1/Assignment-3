@@ -4,7 +4,7 @@
       "type":"Feature",
       "properties":{
         "name":"Atlantis Paradise Island",
-        "description":"Atlantis Paradise Island"
+        "description":"Atlantis Paradise Island is one of the most popular hotels to stay at in The Bahamas. It dominates the skyline of Paradise Island, with a sprawling layout comprising a luxury hotel, entertainment complex, water park and aqaurim."
       },
       "geometry":{
         "type":"Point",
@@ -15,7 +15,7 @@
       "type":"Feature",
       "properties":{
         "name":"Nassau",
-        "description":"Nassau"
+        "description":"Nassau is the capital city of The Bahamas, and it is one of the most popular cruise ships stops in the entire Caribbean. There are countless things to do in Nassau, from relaxing on any one of its serene white sand beaches to exploring the city with its souvenir shops, restaurants, museums and colonial architecture."
       },
       "geometry":{
         "type":"Point",
@@ -26,7 +26,7 @@
       "type":"Feature",
       "properties":{
         "name":"Exuma Cays Land & Sea Park",
-        "description":"Exuma Cays Land & Sea Park"
+        "description":"Exuma Cays Land & Sea Park is one of The Bahamas' most picturesque locations, with some of its most amazing seascapes. Located in one of the more remote locations throughout the islands, this park is a protected area allowing for visitors to be able to appreciate a genuine, untouched aquatic experience. Activities available include diving, snorkeling and boating."
       },
       "geometry":{
         "type":"Point",
@@ -37,7 +37,7 @@
       "type":"Feature",
       "properties":{
         "name":"Harbour Island",
-        "description":"Harbour Island"
+        "description":"Harbour Island is one of the oldest settlements in The Bahamas. The island's only settlement, Dunmore Town, provides an authentic colonial experience, allowing visitors a look at its history. In addition, tourists can enjoy its picturesque sandy beaches and other aquatic adventures like snorkeling and fishing."
       },
       "geometry":{
         "type":"Point",
@@ -48,7 +48,7 @@
       "type":"Feature",
       "properties":{
         "name": "Grand Bahama Island",
-        "description": "Grand Bahama Island"
+        "description": "Grand Bahama Island is the northernmost island of the Bahamian archipelago. Another popular stop for cruise ships, Grand Bahama has one of the maojr tourist hubs in The Bahamas with many options for shopping, dining and entertainment. Notably, Grand Bahama is home to one of the world's longest underwater cave systems."
       },
       "geometry":{
         "type":"Point",
@@ -59,7 +59,7 @@
       "type":"Feature",
       "properties":{
         "name": "Andros Island",
-        "description": "Diving and fishing on Andros Island"
+        "description": "Diving and fishing on Andros Island, the largest landmass in The Bahamas. This island houses one of the largest barrier reefs in the world, as well as several blue holes and underwater caves. For adveture seekers, this stop is referred to as an underwater wonderland."
       },
       "geometry":{
         "type":"Point",
