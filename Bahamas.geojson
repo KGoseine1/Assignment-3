@@ -70,7 +70,7 @@
       "type":"Feature",
       "properties":{
         "name": "Great Abaco Island",
-        "description": "Treasure Cay Beach on Great Abaco Island"
+        "description": "Treasure Cay Beach skirts the eastern shoreline of Great Abaco Island. Often voted as one of the most beautiful beaches in the world, this stretch of shoreline with its flour-soft sand and aquamarine water astounds visitors. The community of Treasure Cay hosts one of The Bahamas' most popular fishing tournaments."
       },
       "geometry":{
         "type":"Point",
@@ -81,7 +81,7 @@
       "type":"Feature",
       "properties":{
         "name": "Elbow Cay",
-        "description": "Elbow Cay"
+        "description": "Elbow Cay is another Bahamian location providing architectural syles reflecting the islands' colonial past. With its colourful cottages along the main street of the island's primary settlement and the restriction of vehicles in the town, it provides a very relaxed environment."
       },
       "geometry":{
         "type":"Point",
@@ -92,7 +92,7 @@
       "type":"Feature",
       "properties":{
         "name": "Green Turtle Cay",
-        "description": "Green Turtle Cay"
+        "description": "Located in the Abacos, Green Turtle Cay exhibits the feel of historical Bahamas. This islet provides serenity to all visitors to the sleepy village of New Plymouth, where the main mode of transportation is by golf cart. One of the most popular activities here is bonefishing."
       },
       "geometry":{
         "type":"Point",
@@ -103,7 +103,7 @@
       "type":"Feature",
       "properties":{
         "name": "Long Island",
-        "description": "Long Island"
+        "description": "Another of The Bahamas' most beautiful islands, Long Island is one of the more remote tourist sites. The island's landscape is very diverse despite its small size, with the quintessential white-sandy beaches one expects in The Bahamas, but also steep, rocky cliffs along its eastern coastline. A notable landmark is Dean's Blue Hole, the deepest known saltwater blue hole in the world."
       },
       "geometry":{
         "type":"Point",
@@ -114,7 +114,7 @@
       "type":"Feature",
       "properties":{
         "name": "Blue Lagoon Island",
-        "description": "Blue Lagoon Island"
+        "description": "Blue Lagoon Island is an animal lover's paradise when visiting The Bahamas. It is famous for encounters with dolphins and sea lions, with acitivites like kayaking and enjoying an inflatable water park."
       },
       "geometry":{
         "type":"Point",
