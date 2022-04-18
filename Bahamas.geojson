@@ -4,8 +4,7 @@
       "type":"Feature",
       "properties":{
         "name":"Atlantis Paradise Island",
-        "description":"Atlantis Paradise Island is one of the most popular hotels to stay at in The Bahamas. It dominates the skyline of Paradise Island, with a sprawling layout comprising a luxury hotel, entertainment complex, water park and aqaurim.",
-        "color": "red"
+        "description":"Atlantis Paradise Island is one of the most popular hotels to stay at in The Bahamas. It dominates the skyline of Paradise Island, with a sprawling layout comprising a luxury hotel, entertainment complex, water park and aqaurim."
       },
       "geometry":{
         "type":"Point",
